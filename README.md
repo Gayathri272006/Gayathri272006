@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gayathri%20H%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20UI%26UX%20Designer%20%7C%20Building%20Experiences%20One%20Component%20at%20a%20Time&descAlignY=62&descSize=16" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gayathri%20H%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20UI%26UX%20Designer%20%7C%20Building%20Experiences%20One%20Component%20at%20a%20Time&descAlignY=62&descSize=16)
 
 <div align="center">
 
@@ -13,8 +13,8 @@
 ```python
 class Gayathri:
     def __init__(self):
-        self.name        = "Gayathri H"
-        self.location    = "Chennai, Tamil Nadu "
+        self.name        = "Gayathri H A"
+        self.location    = "Chennai, Tamil Nadu, IN"
         self.degree      = "B.Tech - Information Technology (2023-2027)"
         self.college     = "Vel Tech High Tech Engineering College"
         self.cgpa        = 8.45
@@ -58,7 +58,7 @@ print(me.motto())
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/BERT%2FNLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT%2FNLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-00BCD4?style=flat-square&logo=google&logoColor=white)
 
 **Databases**
@@ -203,7 +203,5 @@ print(me.motto())
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
