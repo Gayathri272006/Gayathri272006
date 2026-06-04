@@ -1,207 +1,229 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gayathri%20H%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20UI%26UX%20Designer%20%7C%20Building%20Experiences%20One%20Component%20at%20a%20Time&descAlignY=62&descSize=16)
+# 👋 Hi, I'm Gayathri H
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Gayathri%20H&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20UI/UX%20Designer%20|%20AI%20Enthusiast&descAlignY=58&descSize=18" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Gayathri+%F0%9F%91%8B;Full+Stack+Developer+%7C+UI%26UX+Designer;Building+HateGuard+AI+%7C+Flask+%7C+Deep+Learning;CodeIgniter+%7C+PHP+%7C+MySQL+Enthusiast)](https://readme-typing-svg.demolab.com)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Gayathri+%F0%9F%91%8B;Full+Stack+Developer;UI%2FUX+Designer;Building+AI+Powered+Applications;CodeIgniter+%7C+PHP+%7C+MySQL+%7C+Flask" />
+</p>
 
 ---
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## 🚀 About Me
 
-```python
-class Gayathri:
-    def __init__(self):
-        self.name        = "Gayathri H A"
-        self.location    = "Chennai, Tamil Nadu, IN"
-        self.degree      = "B.Tech - Information Technology (2023-2027)"
-        self.college     = "Vel Tech High Tech Engineering College"
-        self.cgpa        = 8.45
-        self.stack       = [
-            "HTML", "CSS", "Bootstrap", "JavaScript",
-            "PHP", "CodeIgniter (MVC)", "MySQL",
-            "Python (basic)", "Java (basic)",
-            "Flask", "BERT", "MediaPipe"
-        ]
-        self.currently_learning = [
-            "React.js",
-            "Deep Learning & NLP",
-            "Cloud Computing (NPTEL)"
-        ]
-        self.fun_fact    = "I once taught a model to detect hate - in real time"
+🎓 B.Tech Information Technology Student (2023–2027)
 
-    def motto(self):
-        return "Design it. Build it. Ship it."
+🏫 Vel Tech High Tech Engineering College, Chennai
 
-me = Gayathri()
-print(me.motto())
-```
+💻 Passionate Full Stack Developer with hands-on experience in PHP, CodeIgniter, MySQL, Flask, and Web Development.
 
-<br clear="right"/>
+🤖 Interested in Artificial Intelligence, Deep Learning, NLP, and Computer Vision.
+
+🎨 Enthusiastic UI/UX Designer focused on creating user-friendly and visually appealing digital experiences.
+
+☁️ Currently learning Cloud Computing, React.js, and Advanced Deep Learning.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 
-**Frameworks & Libraries**
+### Frontend Development
 
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT%2FNLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-00BCD4?style=flat-square&logo=google&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
-**Databases**
+### Backend Development
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge\&logo=codeigniter\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 
-**Design & Cloud**
+### Artificial Intelligence
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-NLP-orange?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Computer%20Vision-blue?style=for-the-badge)
 
-**Tools**
+### Database
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
----
+### Design & Cloud
 
-## 📊 GitHub Stats
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gayathri272006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-  &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri272006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
-</div>
+### Tools
 
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Gayathri272006&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayathri272006&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gayathri272006&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
-</div>
-
----
-
-## 💼 Work Experience
-
-<details>
-<summary><b>🏢 DigiSailor — Full Stack Developer Intern &nbsp;|&nbsp; 2025 &nbsp;|&nbsp; Chennai, Tamil Nadu</b></summary>
-
-<br/>
-
-> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-- Built and maintained full-stack web applications using **HTML, CSS, Bootstrap, PHP (CodeIgniter MVC)**, and **MySQL** in a professional production environment.
-- Implemented responsive UI components and integrated frontend interfaces with backend API logic, improving user experience consistency across modules.
-- Practised clean MVC architecture patterns, writing modular and reusable code across controllers, models, and views.
-- Gained hands-on exposure to database design, query optimisation, and real-world debugging under mentorship.
-
-</details>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🛡️ HateGuard AI
 
-| Project | Stack | Highlights |
-|:--------|:------|:-----------|
-| [🛡️ **HateGuard AI**](https://github.com/Gayathri272006) | Python · Flask · VideoMAE · BERT · MediaPipe | Multimodal hate detection fusing **video + text**; real-time gesture recognition; live & uploaded video support; visual confidence reports |
-| [🏨 **Hotel Reservation System**](https://github.com/Gayathri272006) | PHP · CodeIgniter · MySQL · Bootstrap | Full-stack booking platform with room selection, reservation management, and **real-time availability tracking** |
+Multimodal Hate Detection System built using Deep Learning.
 
-</div>
+#### Features
+
+* Real-time hate gesture detection
+* Video and text-based analysis
+* BERT-based NLP classification
+* MediaPipe gesture recognition
+* Flask-powered web application
+* Confidence score visualization
+
+#### Technologies
+
+Python • Flask • BERT • MediaPipe • Deep Learning
 
 ---
 
-## 🏅 Achievements & Certifications
+### 🏨 Hotel Reservation System
 
-<div align="center">
+Complete hotel booking and reservation platform.
 
-| 🏆 | Achievement | Details |
-|:--:|:------------|:--------|
-| 📜 | **NPTEL Certification** | Cloud Computing — successfully completed the course |
-| 💼 | **Industry Internship** | Full Stack Developer @ DigiSailor (2025) |
-| 🤖 | **AI Project — HateGuard** | Multimodal deep learning system (2024–2025) using VideoMAE + BERT |
-| 🎓 | **Academic Excellence** | CGPA **8.45** / 10 (through 5th semester, B.Tech IT) |
+#### Features
 
-</div>
+* Room booking system
+* Reservation management
+* Customer registration and login
+* Admin dashboard
+* Database integration
+* Responsive design
+
+#### Technologies
+
+PHP • CodeIgniter • MySQL • Bootstrap
+
+---
+
+## 💼 Internship Experience
+
+### Full Stack Developer Intern
+
+**DigiSailor – Chennai, Tamil Nadu**
+
+#### Responsibilities
+
+* Developed full-stack web applications
+* Worked with PHP and CodeIgniter MVC
+* Designed responsive user interfaces
+* Managed MySQL databases
+* Debugged and optimized web applications
+* Collaborated with development teams
+
+#### Technologies Used
+
+HTML • CSS • Bootstrap • PHP • CodeIgniter • MySQL
+
+---
+
+## 🏆 Achievements
+
+🏅 NPTEL Certification in Cloud Computing
+
+🏅 Full Stack Developer Internship at DigiSailor
+
+🏅 Developed HateGuard AI – Multimodal Deep Learning Project
+
+🏅 Academic Performance: CGPA 8.45/10
 
 ---
 
 ## 🎓 Education
 
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|:-------|:------------|:----:|:-----:|
-| 🎓 B.Tech — Information Technology | Vel Tech High Tech Engineering College, Chennai | 2023 – 2027 | **CGPA 8.45** |
-| 📚 Higher Secondary (XII) | Our Lady's Matric. Hr. Sec. School, Chennai | 2022 – 2023 | **79%** |
-
-</div>
+| Degree                        | Institution                            | Duration  | Score     |
+| ----------------------------- | -------------------------------------- | --------- | --------- |
+| B.Tech Information Technology | Vel Tech High Tech Engineering College | 2023–2027 | CGPA 8.45 |
+| Higher Secondary Education    | Our Lady's Matric Hr. Sec. School      | 2022–2023 | 79%       |
 
 ---
 
-## 🧠 Currently Learning
+## 📚 Currently Learning
 
-```
-🧱 React.js        → Components, Hooks, State Management, React Router
-🤖 Deep Learning   → CNNs, Transformers, NLP with BERT, VideoMAE
-☁️  Cloud Computing → Cloud Architecture, Deployment, Scalability (NPTEL)
-🎨 UI/UX Design    → Figma Prototyping, Design Systems, User Research
-```
-
----
-
-## 🤝 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gayathri%20Harish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayathri-harish-843b44323/)
-[![GitHub](https://img.shields.io/badge/GitHub-Gayathri272006-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gayathri272006)
-[![Email](https://img.shields.io/badge/Email-gayathrihari2702%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayathrihari2702@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%209361875535-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919361875535)
-
-</div>
+* React.js
+* Deep Learning
+* Natural Language Processing
+* Cloud Computing
+* Advanced Web Development
+* UI/UX Design Systems
 
 ---
 
-<div align="center">
+<h2>🔥 GitHub Streak</h2>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Gayathri272006&color=70a5fd&style=flat-square&label=Profile+Views)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gayathri272006&theme=tokyonight" />
+</p>
 
-*"Design it. Build it. Ship it. ✨"*
+## 📈 Contribution Graph
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayathri272006&theme=tokyo-night&hide_border=true" />
+</p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+---
 
+
+---
+
+## 🎯 Career Interests
+
+* Full Stack Development
+* Artificial Intelligence
+* Deep Learning
+* Natural Language Processing
+* Cloud Computing
+* UI/UX Design
+* Software Engineering
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Gayathri272006">
+<img src="https://img.shields.io/badge/GitHub-Gayathri272006-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/gayathri-harish-843b44323/">
+<img src="https://img.shields.io/badge/LinkedIn-Gayathri%20Harish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:gayathrihari2702@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Profile Visitors
+
+![](https://komarev.com/ghpvc/?username=Gayathri272006\&style=for-the-badge)
+
+</p>
+
+---
+
+<p align="center">
+<b>“Design it. Build it. Ship it. ✨”</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
